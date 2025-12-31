@@ -1,3 +1,7 @@
+# THIS TEMPLATE IS OUT-OF-DATE
+# PLEASE REFER TO [BASICMOD](https://github.com/Alchyr/BasicMod#basic-mod) TO GET STARTED WITH SPIRE MODDING
+
+
 # STSModSetup
 A base structure for the creation of mods for Slay the Spire based off of the wiki from [BaseMod's Getting Started Guide](https://github.com/daviscook477/BaseMod/wiki/Getting-Started-(For-Modders))
 
